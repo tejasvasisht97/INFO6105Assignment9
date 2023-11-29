@@ -13,13 +13,7 @@ const Home = () => {
     {
       title: 'Featured Product',
       description: 'Discover our featured product of the month.',
-      content: (
-        <img
-          src="https://via.placeholder.com/200x150"
-          alt="Featured Product"
-          style={{ width: '100%', borderRadius: '8px' }}
-        />
-      ),
+      content: 'Deals of the day',
     },
     // Add more cards as needed
   ];
